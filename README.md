@@ -1,2 +1,2 @@
 # RTR105
-Studiju kursa datormācībā (pamatkurss) klade
+Studiju kursa datormācībā (pamatkurss) elektroniskā klade
