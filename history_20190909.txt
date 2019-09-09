@@ -1,6 +1,7 @@
-**Basic Linux commands**
+__Basic Linux commands__
     
     **whoami **
+    > sad
     **pwd **
     **ls **
     **who **
