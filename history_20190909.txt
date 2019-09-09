@@ -1,8 +1,27 @@
+Linux commands
+====================
+
+Basic
+---------------------
+
+### whoami
+
+> Print username
+### whoami
+
+> Print username
+
+
+
+
+
+
 
 
 ***Basic Linux commands***
-    **whoami**
+    **whoami** 
     > username
+    >
     **pwd**
     > print working directory
     **ls**
