@@ -3,11 +3,8 @@ Studiju kursa datormācībā (pamatkurss) elektroniskā klade
 ====================
 
 
-Linux commands
-====================
+***Linux commands****
 
-Basic
----------------------
 
 ### whoami
    > Print username
