@@ -1,0 +1,54 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox 
+    4  ls -l *.txt
+    5  ls -l b*.txt
+    6  cat aaa.txt 
+    7  cat aaa.txt  > bbb1.txt
+    8  cat bbb1.txt 
+    9  ls -l
+   10  touch aaa.txt
+   11  ls
+   12  nano aaa.txt 
+   13  toch -c -t 2019171000 aaa.txt 
+   14  touch -c -t 2019171000 aaa.txt 
+   15  touch -c -t 20191710000 aaa.txt 
+   16  touch -c -t 20191710 aaa.txt 
+   17  touch -c -t 2019171000 aaa.txt 
+   18  echo ssss
+   19  touch -t 
+   20  touch --help
+   21  touch -c -t 20191710.ss aaa.txt 
+   22  touch -c -t 20191710 aaa.txt
+   23  touch -c -t 201917100000 aaa.txt
+   24  echo asdas aaa.txt
+   25  cat aaa.txt 
+   26  echo asdasd > aaa.txt 
+   27  cat aaa.txt 
+   28  echo asssss > aaa.txt 
+   29  cat aaa.txt 
+   30  echo asssss >> aaa.txt 
+   31  cat aaa.txt 
+   32  ls -l aaa.txt 
+   33  cat aaa.txt 
+   34  echo asssssdddd /n ssdfsd >> aaa.txt 
+   35  cat aaa.txt 
+   36  echo asssssdddd /n ssdfs
+   37  echo asssssdddd / ssdfs
+   38  man echo
+   39  echo "asssssdddd/vsdfsdfsdf" ssdfs
+   40  echo "asssssdddd/v sdfsdfsdf" ssdfs
+   41  echo -e "asssssdddd/v sdfsdfsdf" ssdfs
+   42  echo -e "asssssdddd/v sdfsdfsdf" >> aaa.txt 
+   43  cat aaa.txt 
+   44  echo -e "asssssdddd\v sdfsdfsdf" >> aaa.txt 
+   45  cat aaa.txt 
+   46  echo -e "asssssdddd\n sdfsdfsdf" >> aaa.txt 
+   47  cat aaa.txt 
+   48  ls -l bin/bash
+   49  ls -l /bin/bash
+   50  cat /bin/bash
+   51  nano /bin/bash
+   52  man cat
+   53  history
+   54  history > history_20190916.txt
