@@ -13,3 +13,267 @@
    13  clear
    14  history 
    15  history >> history_20190923.txt
+   16  ls -l
+   17  sh git-upload.sh 
+   18  nano git-upload.sh 
+   19  sh git-upload.sh 
+   20  nano git-upload.sh 
+   21  sh git-upload.sh 
+   22  nano git-upload.sh 
+   23  sh git-upload.sh 
+   24  nano git-upload.sh 
+   25  ./git-upload.sh 
+   26  ./git-upload
+   27  chmod 755 git-upload
+   28  ./git-upload
+   29  git-upload
+   30  ./git-upload
+   31  nano git-upload
+   32  ./git-upload
+   33  nano git-upload
+   34  ./git-upload
+   35  nano git-upload
+   36  ./git-upload
+   37  ./git-upload a b 
+   38  ./git-upload a 
+   39  ./git-upload 20190923_15_15
+   40  cd /
+   41  ./git-upload 20190923_15_15
+   42  cd ./
+   43  ls
+   44  cd home/
+   45  ./git-upload 20190923_15_15
+   46  ls
+   47  cd user
+   48  ls
+   49  ./git-upload 20190923_15_15
+   50  nano history_20190923.txt 
+   51  mv history_20190923.txt RTR105/
+   52  mv git-upload RTR105/
+   53  cd RTR105/
+   54  ls
+   55  ./git-upload 20190923_15_15
+   56  cd .
+   57  ls
+   58  ls -l
+   59  cd ..
+   60  ls
+   61  rm git-upload.sh 
+   62  cd RTR105/
+   63  ls
+   64  man mv
+   65  ls
+   66  mkdir Darbi
+   67  ls
+   68  cd Darbi/
+   69  ls
+   70  pwd
+   71  nano elementary.c
+   72  l s-l
+   73  ls -l
+   74  gcc elementary.c 
+   75  nano elementary.c
+   76  gcc elementary.c 
+   77  gcc elementary.c ls -l
+   78  ls -l
+   79  tail a.out 
+   80  ls -l
+   81  clear
+   82  ls -l
+   83  nano elementary.c 
+   84  gcc elementary.c -o prgl
+   85  gcc elementary.c -o prglls -l
+   86  ls -l
+   87  ./prgl 
+   88  nano main
+   89  nano elementary.c 
+   90  gcc elementary.c -o prg2
+   91  ls -l
+   92  nano elementary.c 
+   93  cp elementary.c coppy.c
+   94  nano coppy.c 
+   95  cp coppy.c 
+   96  cpp coppy.c 
+   97  gcc coppy.c 
+   98  nano coppy.c 
+   99  gcc coppy.c 
+  100  gcc coppy.c prg4
+  101  ls
+  102  cd
+  103  gcc elementary.c -o prg4
+  104  gcc copy.c -o prg4
+  105  nano copy.c
+  106  ls
+  107  cd RTR105/
+  108  ls
+  109  cd Darbi/
+  110  ls
+  111  cgg coppy.c -o prg4
+  112  gcc coppy.c -o prg4
+  113  gcc coppy.c -o prg3
+  114  nano copy.c
+  115  nano coppy.c 
+  116  gcc coppy.c -o prg5
+  117  mv coppy.c hello.c
+  118  ls
+  119  nano hello.c 
+  120  gcc coppy.c -o prg6
+  121  gcc hello.c.c -o prg6
+  122  gcc hello.c -o prg6
+  123  gcc hello.c
+  124  nano hello.c 
+  125  gcc hello.c
+  126  ls
+  127  rm prg*
+  128  ls
+  129  gcc hello.c
+  130  nano hello.c 
+  131  gcc hello.c
+  132  ls
+  133  rm a.out 
+  134  cd ..
+  135  ls -l
+  136  history > history)
+  137  history > history_20190923.txt
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://username@github.com/koziskey/repo.git
+    4  git clone https://koziskey@github.com/koziskey/repo.git
+    5  git clone https://github.com/KozisKey/RTR105
+    6  nano git-uploud
+    7  nano git-upload
+    8  ls -l
+    9  chmod 755
+   10  chmod 755 git-upload.sh 
+   11  ls -l
+   12  c
+   13  clear
+   14  history 
+   15  history >> history_20190923.txt
+   16  ls -l
+   17  sh git-upload.sh 
+   18  nano git-upload.sh 
+   19  sh git-upload.sh 
+   20  nano git-upload.sh 
+   21  sh git-upload.sh 
+   22  nano git-upload.sh 
+   23  sh git-upload.sh 
+   24  nano git-upload.sh 
+   25  ./git-upload.sh 
+   26  ./git-upload
+   27  chmod 755 git-upload
+   28  ./git-upload
+   29  git-upload
+   30  ./git-upload
+   31  nano git-upload
+   32  ./git-upload
+   33  nano git-upload
+   34  ./git-upload
+   35  nano git-upload
+   36  ./git-upload
+   37  ./git-upload a b 
+   38  ./git-upload a 
+   39  ./git-upload 20190923_15_15
+   40  cd /
+   41  ./git-upload 20190923_15_15
+   42  cd ./
+   43  ls
+   44  cd home/
+   45  ./git-upload 20190923_15_15
+   46  ls
+   47  cd user
+   48  ls
+   49  ./git-upload 20190923_15_15
+   50  nano history_20190923.txt 
+   51  mv history_20190923.txt RTR105/
+   52  mv git-upload RTR105/
+   53  cd RTR105/
+   54  ls
+   55  ./git-upload 20190923_15_15
+   56  cd .
+   57  ls
+   58  ls -l
+   59  cd ..
+   60  ls
+   61  rm git-upload.sh 
+   62  cd RTR105/
+   63  ls
+   64  man mv
+   65  ls
+   66  mkdir Darbi
+   67  ls
+   68  cd Darbi/
+   69  ls
+   70  pwd
+   71  nano elementary.c
+   72  l s-l
+   73  ls -l
+   74  gcc elementary.c 
+   75  nano elementary.c
+   76  gcc elementary.c 
+   77  gcc elementary.c ls -l
+   78  ls -l
+   79  tail a.out 
+   80  ls -l
+   81  clear
+   82  ls -l
+   83  nano elementary.c 
+   84  gcc elementary.c -o prgl
+   85  gcc elementary.c -o prglls -l
+   86  ls -l
+   87  ./prgl 
+   88  nano main
+   89  nano elementary.c 
+   90  gcc elementary.c -o prg2
+   91  ls -l
+   92  nano elementary.c 
+   93  cp elementary.c coppy.c
+   94  nano coppy.c 
+   95  cp coppy.c 
+   96  cpp coppy.c 
+   97  gcc coppy.c 
+   98  nano coppy.c 
+   99  gcc coppy.c 
+  100  gcc coppy.c prg4
+  101  ls
+  102  cd
+  103  gcc elementary.c -o prg4
+  104  gcc copy.c -o prg4
+  105  nano copy.c
+  106  ls
+  107  cd RTR105/
+  108  ls
+  109  cd Darbi/
+  110  ls
+  111  cgg coppy.c -o prg4
+  112  gcc coppy.c -o prg4
+  113  gcc coppy.c -o prg3
+  114  nano copy.c
+  115  nano coppy.c 
+  116  gcc coppy.c -o prg5
+  117  mv coppy.c hello.c
+  118  ls
+  119  nano hello.c 
+  120  gcc coppy.c -o prg6
+  121  gcc hello.c.c -o prg6
+  122  gcc hello.c -o prg6
+  123  gcc hello.c
+  124  nano hello.c 
+  125  gcc hello.c
+  126  ls
+  127  rm prg*
+  128  ls
+  129  gcc hello.c
+  130  nano hello.c 
+  131  gcc hello.c
+  132  ls
+  133  rm a.out 
+  134  cd ..
+  135  ls -l
+  136  history > history)
+  137  history > history_20190923.txt
+  138  cd
+  139  ls
+  140  cd RTR105/
+  141  ls
+  142  history >> history_20190923.txt
