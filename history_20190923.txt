@@ -1,0 +1,15 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://username@github.com/koziskey/repo.git
+    4  git clone https://koziskey@github.com/koziskey/repo.git
+    5  git clone https://github.com/KozisKey/RTR105
+    6  nano git-uploud
+    7  nano git-upload
+    8  ls -l
+    9  chmod 755
+   10  chmod 755 git-upload.sh 
+   11  ls -l
+   12  c
+   13  clear
+   14  history 
+   15  history >> history_20190923.txt
