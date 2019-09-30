@@ -1,0 +1,82 @@
+#include<stdio.h>
+
+int main () 
+{
+        char a  = 255;
+        printf(" %c \n", a);
+}
+
+
+Rezultāts: 
+-1
+
+Labojums:
+#include<stdio.h>
+
+int main () 
+{
+        int a  = 255;
+        printf(" %c \n", a);
+}
+
+Rezultāts:
+255
+
+///Char vietaa lieto int///
+
+
+
+
+
+
+
+
+
+
+
+
+#include<stdio.h>
+#include<limits.h>
+
+
+int main () 
+{
+        int a = 50000;//50,000
+        int b = 1000000;//1,000,000
+        int c = a * b;//kaadsirsgaidaamsrezultaats?
+        printf ("int datu tipa iz mers ir: %zu baiti \n",sizeof (int));
+        printf ("Apreekjinamaunbreizinaajumu: \n");
+        printf ("a= %d, b= %d \n", a, b);
+        printf ("c=a*b= %d*%d= %d \n", a,b,c );//rrezultaatsuzekraana
+}
+
+
+Rezultats:
+int datu tipa iz mers ir: 4 baiti 
+Apreekjina maunu reizinaajumu: 
+a= 50000, b= 1000000 
+c=a*b= 50000*1000000= -1539607552 
+
+
+Labojums:
+
+#include<stdio.h>
+#include<limits.h>
+
+
+int main () 
+{
+        long a = 50000;//50,000
+        long b = 1000000;//1,000,000
+        long c = a * b;//kaadsirsgaidaamsrezultaats?
+        printf ("int datu tipa iz mers ir: %zu baiti \n",sizeof (int));
+        printf ("Apreekjina maunu reizinaajumu: \n");
+        printf ("a= %ld, b= %ld \n", a, b);
+        printf ("c=a*b= %ld*%ld = %ld \n", a,b,c );//rrezultaatsuzekraana
+}
+
+Rezultāts:
+a= 50000, b= 1000000 
+c=a*b= 50000*1000000 = 50000000000 
+
+//int vietā lieto long/long int...string &d vietā lieto &ld
